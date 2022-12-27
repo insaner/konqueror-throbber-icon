@@ -2,7 +2,7 @@
 A drop-in animated throbber icon (`process-working-kde`) for Konqueror, for when your preferred icon theme is missing one (or you don't like it).
 
 
-![konq throbber icon](/base/48x48/animations/process-idle-kde.png)
+![konq throbber icon](/konqueror-throbber-icon.png)
 
 ## Installation instructions
 
